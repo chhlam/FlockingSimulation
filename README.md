@@ -1,6 +1,8 @@
 # FlockingSimulation
 A bird flocking simulation based on the boid model by [Craig Reynolds](http://www.red3d.com/cwr/boids/).
 
+*Final project for the course PHYS3061 in Spring 2020 at the Chinese University of Hong Kong.*
+
 ## Features
 Basic traits of boids are implemented according to the boid model. Boids of two types, prey and predator, are introduced.
 
@@ -36,5 +38,6 @@ Stored in the same folder `build`, including:
 ## Note
 This was my first try on writing header files, it might seems amateurish because it is.
 
-For some bizarre reasons, year 2 me thought it was a good idea to hard-code the variables in the program. Yeah, good job me. Might revisit this project some other time.
+For some bizarre reasons, year 2 me thought it was a good idea to hard-code the variables in the program. Yeah, good job me. 
 
+Might revisit this project some other time.
